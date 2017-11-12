@@ -1,0 +1,15 @@
+{
+  "name": "serp-api-tests",
+  "version": "1.0.0",
+  "description": "Test Suite for SERP API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^3.0.0",
+    "axios": "^0.17.0"
+  },
+  "author": "Mats Andresen",
+  "license": "ISC"
+}
